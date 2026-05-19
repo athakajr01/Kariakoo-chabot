@@ -1,0 +1,5 @@
+{
+  "name": "Kibenje Business Guide Chatbot",
+  "description": "A multilingual chatbot providing business opportunities and insights from Kelvin Kibenje's book.",
+  "requestFramePermissions": ["microphone"]
+}
